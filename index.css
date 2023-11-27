@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400;0,700;1,800&family=Roboto+Slab:wght@700&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  padding: 140px 135px 180px 135px;
+  min-height: 100vh;
+  background-color: #28293e;
+  
+}
+.container .texts h2 {
+  margin-bottom: 20px;
+  color: #ef6d58;
+  font-family: Epilogue;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+.container .texts h1 {
+  width: 531px;
+  height: 128px;
+  color: #fff;
+}
+.box-container{
+    display: flex;
+}
